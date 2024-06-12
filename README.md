@@ -5,7 +5,7 @@ This repository provides detailed tutorials for setting up and running Large Lan
 
 ## Features
 
-- **GPU Accelerated Setup**: Leverage the power of Google Colab's GPUs to significantly speed up your model's performance.
+- **GPU Accelerated Setup**: Use Google Colab's free Tesla T4 GPUs to speed up your model's performance by X60 times (compared to CPU only session). Note that GPU availability is limited by usage quotas.
 - **CPU Only Setup**: A detailed guide to setting up LLMs on a CPU-only environment, perfect for users without access to GPU resources.
 - **Comprehensive Instructions**: Each tutorial includes step-by-step instructions, from setting up the environment to executing the model.
 - **Code Examples**: Includes complete, runnable Jupyter notebooks that you can directly import into Colab and start using.
