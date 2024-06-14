@@ -12,9 +12,9 @@ This repository provides detailed tutorials for setting up and running Large Lan
 
 ## Tutorials
 
-1. **[GPU Accelerated Setup](Setup%20LLM%20on%20Google%20Colab:%20GPU%20Accelerated.ipynb)**: This notebook walks you through the process of setting up a LLM on Google Colab with GPU acceleration. It includes instructions for optimizing your model to take full advantage of Google's hardware.
+1. **[GPU Accelerated Setup](https://github.com/casualcomputer/llm_google_colab/blob/main/setup_llm_on_google_colab_gpu_accelerated.ipynb)**: This notebook walks you through the process of setting up a LLM on Google Colab with GPU acceleration. It includes instructions for optimizing your model to take full advantage of Google's hardware.
 
-2. **[CPU Only Setup](Setup%20LLM%20on%20Google%20Colab:%20CPU%20Only.ipynb)**: For users without access to GPU resources, this notebook provides a detailed guide to setting up and running LLMs using only CPUs. It includes performance tips and best practices for maximizing efficiency.
+2. **[CPU Only Setup](https://github.com/casualcomputer/llm_google_colab/blob/main/setup_llm_on_google_colab_cpu_only.ipynb)**: For users without access to GPU resources, this notebook provides a detailed guide to setting up and running LLMs using only CPUs. It includes performance tips and best practices for maximizing efficiency.
 
 ## Getting Started
 
