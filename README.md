@@ -17,6 +17,8 @@ This repository provides detailed tutorials for setting up and running Large Lan
 
 3. **[Setting Up LLM on Kaggle GPU](https://github.com/casualcomputer/llm_google_colab/blob/main/setup-llm-on-kaggle-gpu.ipynb)**: This notebook guides you through the process of setting up a LLM on Kaggle using GPU acceleration. It includes steps to install necessary packages and optimize your model for Kaggle's hardware.
 
+4. **[Running Ollama on Colab](https://github.com/casualcomputer/llm_google_colab/blob/main/setup_ollama_google_colab.ipynb)**: This notebook guides you through the process of running and serving LLaMA3 through Ollama. It allows learners to interact with LLM easily and experimenting different open-source LLM's.
+
 ## Getting Started
 
 To get started with these tutorials, follow these steps:
