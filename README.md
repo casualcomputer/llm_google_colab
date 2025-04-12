@@ -19,6 +19,8 @@ This repository provides detailed tutorials for setting up and running Large Lan
 
 4. **[Running Ollama on Colab](https://github.com/casualcomputer/llm_google_colab/blob/main/setup_ollama_google_colab.ipynb)**: This notebook guides you through the process of running and serving LLaMA3 through Ollama. It allows learners to interact with LLM easily and experimenting different open-source LLM's.
 
+5. **[Mimicking Data Analysts with Gemini/Ollama & CrewAI Agents](https://github.com/casualcomputer/llm_google_colab/blob/main/setup_crewai_agents_google_colab.ipynb)**: Explore this notebook to see how Gemini, orchestrated by CrewAI agents, can replicate the workflow of a data analyst. It focuses on rapidly uncovering insights and flagging data quality concerns in your datasets. Note, code snippets on leveraging Ollama is coming.
+
 ## Getting Started
 
 To get started with these tutorials, follow these steps:
